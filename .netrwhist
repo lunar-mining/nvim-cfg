@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/x/.config/nvim'
+let g:netrw_dirhist_6='/home/x/.config/ranger'
+let g:netrw_dirhist_5='/home/x/src/polyteknik.org'
+let g:netrw_dirhist_4='/home/x/src/rust-study/vector_ex/src'
+let g:netrw_dirhist_3='/home/x/src/rust-study/vector_ex'
+let g:netrw_dirhist_2='/home/x/src/rust-study/string_ex'
+let g:netrw_dirhist_1='/home/x/src/rust-study/vector_ex'
