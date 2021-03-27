@@ -16,6 +16,9 @@ set mouse=a
 "add line numbering
 set number
 
+"set python version
+set pyxversion=3
+
 "set tab to 4
 set tabstop=4
 set softtabstop=0 noexpandtab
@@ -98,7 +101,7 @@ autocmd FileType markdown setlocal tw=0
 call plug#begin('~/.config/nvim/plugged')      
 
 " Use release branch (Recommend)
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'neoclide/coc.nvim', {'commit': 'ce448a6'}
 
 " Initialize plugin system
 call plug#end()
